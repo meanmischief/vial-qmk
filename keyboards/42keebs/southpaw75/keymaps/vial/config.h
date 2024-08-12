@@ -10,6 +10,3 @@
 // #define DYNAMIC_KEYMAP_LAYER_COUNT 2
 // #define VIAL_COMBO_ENTRIES 4
 // #define VIAL_KEY_OVERRIDE_ENTRIES 4
-
-// Extra configuration for the Frood - double tap to reset indicator LED
-#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_LED D5
